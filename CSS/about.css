@@ -472,6 +472,9 @@ blockquote {
   .hero-2iv {
     padding-left: 22px;
   }
+  .hero-iv img{
+    height: 52dvh;
+  }
 
   .hero-2iv::before {
     left: -6px;
