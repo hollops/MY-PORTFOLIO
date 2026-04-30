@@ -414,7 +414,7 @@ blockquote {
   }
 
   .hero-iv {
-    min-height: 390px;
+    min-height: 0;
   }
 
   .hero-3ii {
@@ -471,9 +471,6 @@ blockquote {
 
   .hero-2iv {
     padding-left: 22px;
-  }
-  .hero-iv img{
-    height: 52dvh;
   }
 
   .hero-2iv::before {

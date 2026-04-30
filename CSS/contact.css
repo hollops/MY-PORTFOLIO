@@ -1,3 +1,6 @@
+html{
+  scroll-behavior: smooth;
+}
 .hero {
   padding-top: 54px;
 }
