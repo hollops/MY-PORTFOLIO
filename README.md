@@ -5,6 +5,7 @@ A modern multi-page developer portfolio built to showcase my projects, skills, a
 oladipo-bukayomi.vercel.app
 
 📂 GitHub Repository
+https://github.com/hollops/MY-PORTFOLIO.git
 
 
 🛠️ Tech Stack
@@ -84,10 +85,10 @@ This portfolio was built to document my learning journey, showcase my frontend d
 Feel free to connect or reach out:
 
 
-GitHub: YOUR_GITHUB_LINK
+GitHub: https://github.com/hollops
 
 
-Email: YOUR_EMAIL
+Email: paulbukayomi@gmail.com
 
 
 
